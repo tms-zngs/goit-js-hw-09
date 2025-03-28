@@ -1,0 +1,8 @@
+.nav {
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+
+}
